@@ -1,5 +1,5 @@
-# ajax_json
-Making local api call with ajax using xhr
+# Customer and Customers 
+Making local api call with ajax using xhr. AJAX and JSON are being used.
 
-[ Check out Book List](https://gerardinhoo.github.io/ajax_json/) 
+[ Check Customer && Customers ](https://gerardinhoo.github.io/ajax_json/) 
 
