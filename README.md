@@ -2,10 +2,10 @@
 Making local api call with ajax using xhr. AJAX and JSON are being used.
 
 
-## [ Customer And Customer](https://gerardinhoo.github.io/ajax_json/) [:newtab]
 
 
-<a href="http://example.com/" target="_blank">example</a>
+
+## <a href="https://gerardinhoo.github.io/ajax_json/" target="_blank">Customer And Customer</a>
 
 
 
