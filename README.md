@@ -6,6 +6,10 @@ Making local api call with ajax using xhr. AJAX and JSON are being used.
 
 
 
+[adjustable](http://google.com "Giiidd"){:target="_blank"}
+
+
+
 
 
 
