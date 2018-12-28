@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Dinho",
+    "company": "Dinho Designs",
+    "phone": "444-555-6666"
+  },
+  {
+    "id": 2,
+    "name": "Mikel",
+    "company": "The Pro Life",
+    "phone": "222-333-4444"
+  },
+  {
+    "id": 3,
+    "name": "Barbara",
+    "company": "Novela",
+    "phone": "777-888-9999"
+  }
+]
